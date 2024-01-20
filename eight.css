@@ -1,0 +1,40 @@
+body{
+  margin:0;
+  padding:0;}
+
+  .box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/darrrk.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+  }
+  .box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/bluesk.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+  }
+  .box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/star.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+  }
+  h1{
+    font-size: 300px;
+    font-weight: 500;
+    color: beige;
+    margin:0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+  }
